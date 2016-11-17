@@ -3,7 +3,7 @@ student name : rohit maharjan
 subject : programming fundamental
 roll no :
 sheet no :
-program : write a c program to print name ask from user
+program : write a c program to print name asked from the user
 date : 16 November 2016
 */
 #include<stdio.h>

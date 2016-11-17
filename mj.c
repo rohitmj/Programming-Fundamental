@@ -11,8 +11,8 @@ date : 16 November 2016
 int main (){
 char name;
 printf("what is your name");
-scanf("%c",& name);
-printf("my name is:%c",name);
+scanf("%s",& name);
+printf(" name of the user is:%s",name);
 getch();
 return 0;
 }

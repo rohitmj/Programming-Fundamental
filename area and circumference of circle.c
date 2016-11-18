@@ -1,10 +1,10 @@
 /*
-student name: Rohit Maharjan
-subject : Programming Fundamentals
-roll no:
-sheet :
-program : Write a c program to calculate the area and circumference of circles having radius r. r should be taken from the user
-date: 18 november 2016
+Student name: Rohit Maharjan
+Subject : Programming Fundamentals
+Roll no:23
+Sheet :3
+Program : Write a c program to calculate the area and circumference of circles having radius r. r should be taken from the user
+Date: 18 november 2016
 */
 #include<stdio.h>
 #include<conio.h>

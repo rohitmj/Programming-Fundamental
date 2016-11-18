@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 int main(){
-printf("rohit maharjan\n");
+printf("Rohit Maharjan\n");
 getch ();
 return 0;
 }

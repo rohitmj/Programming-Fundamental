@@ -2,7 +2,7 @@
 student name: Rohit Maharjan
 subject: Computer fundamentals
 roll no:
-programe : write a c program to print the simple interest
+programe : Write a c program to print the simple interest
 date:18 November,2016
 */
 #include<stdio.h>
@@ -10,14 +10,14 @@ date:18 November,2016
 int main()
 {
 float P,T,R,I;
-printf("enter the principle:\n");
+printf("Enter the principle:\n");
 scanf("%f",&P);
-printf("enter the time:\n");
+printf("Enter the time:\n");
 scanf("%f",&T);
-printf("enter the rate:\n");
+printf("Enter the rate:\n");
 scanf("%f",&R);
 I=P*T*R/100;
-printf(" the simple interest is:%f\n",I);
+printf("The simple interest is:%f\n",I);
 getch();
 return 0;
 }

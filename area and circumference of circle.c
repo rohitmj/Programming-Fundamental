@@ -10,12 +10,12 @@ date: 18 november 2016
 #include<conio.h>
 int main (){
 float r,area,circumference;
-printf("enter the radius:\n");
+printf(Enter the radius:\n");
 scanf("%f",&r);
 area=3.14*r*r;
 circumference=2*3.14*r;
-printf(" area of the circle is:%f\n",area);
-printf("circumference of the circle is:%f\n",circumference);
+printf("Area of the circle is:%f\n",area);
+printf("Circumference of the circle is:%f\n",circumference);
 getch();
 return 0;
 }

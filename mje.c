@@ -2,7 +2,7 @@
 student name: Rohit Maharjan
 subject: Computer fundamentals
 roll no:
-programe : write a c prograam to print the product of two numbers given by the user
+programe : write a c program to print the product of two numbers given by the user
 date:18 November,2016
 */
 #include<stdio.h>

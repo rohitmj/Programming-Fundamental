@@ -11,7 +11,7 @@ Date: November,2016
 int main(){
 int a,b;
 float h,area;
-printf("Enter the fist side:\n");
+printf("Enter the first side:\n");
 scanf("%d",&a);
 printf("Enter the second side:\n");
 scanf("%d",&b);

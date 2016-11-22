@@ -12,7 +12,7 @@ Date: November,2016
 
 int main(){
 float a,b,c,S,Area,e;
-printf("Enter the fist side:\n");
+printf("Enter the first side:\n");
 scanf("%f",&a);
 printf("Enter the second side:\n",b);
 scanf("%f",&b);

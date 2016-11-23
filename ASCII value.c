@@ -13,7 +13,7 @@ int ASCIIvalue;
 printf("Enter the character:\n");
 scanf("%c",&character);
 ASCIIvalue=character;
-printf("The value of ASCII is %d",ASCIIvalue);
+printf("The value of ASCII is :%d",ASCIIvalue);
 getch();
 return 0;
 }

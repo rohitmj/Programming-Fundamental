@@ -2,7 +2,7 @@
 Student name: Rohit Maharjan
 Subject: Computer fundamentals
 Roll no:23
-Programe : Write a program to find the roots of quadratic equation and value are assigned from user
+Programe : Write a program to find the ASCII value 
 Lab Sheet No:04
 Date:23 November,2016
 */

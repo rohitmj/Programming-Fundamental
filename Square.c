@@ -15,7 +15,7 @@ int main()
     printf("Enter the Number:\n");
     scanf("%d",&n);
     sq=pow(n,2);
-    printf("Square root of the given number is:%d",sq);
+    printf("Square of the given number is:%d",sq);
     getch();
     return 0;
 }

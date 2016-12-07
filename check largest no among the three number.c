@@ -2,7 +2,7 @@
 Student name: Rohit Maharjan
 Subject: Computer Fundamentals
 Roll no:23
-Programme : Write a program to check check largest number among the three numbers
+Programme : Write a program to check the largest number among the three numbers
 Lab Sheet No:07
 Date:7th December,2016
 */

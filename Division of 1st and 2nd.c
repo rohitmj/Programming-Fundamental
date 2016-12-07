@@ -2,7 +2,7 @@
 Student name: Rohit Maharjan
 Subject: Computer Fundamentals
 Roll no:23
-Programme : Write a program to print division of 1st and 2nd division
+Programme : Write a program to print Division
 Lab Sheet No:07
 Date:7th December,2016
 */

@@ -2,7 +2,7 @@
 Student name: Rohit Maharjan
 Subject: Computer fundamentals
 Roll no:26
-Programe : Write a c program to check the number is odd or even using while loop
+Programe : Write a c program to print all natural numbers from 1 to n using while loop
 Lab Sheet No:12
 Date: 2nd jan,2016
 */

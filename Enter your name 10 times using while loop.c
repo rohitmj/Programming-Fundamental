@@ -2,7 +2,7 @@
 Student name: Rohit Maharjan
 Subject: Computer fundamentals
 Roll no:23
-Program : Write a program to find the even numbers from 1 to 100 using for loop
+Program : Write a program to find the even numbers from 1 to 100 using while loop
 Lab Sheet No:04
 Date:20 December,2016
 */

@@ -1,5 +1,5 @@
 /*
-Author : Bijay Shah
+Name : Rohit MJ
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 15

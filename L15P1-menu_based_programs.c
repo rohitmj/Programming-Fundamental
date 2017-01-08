@@ -31,7 +31,9 @@ int main()
 			printf("Number is even");
 		}
 		else
+		{
 		printf("Number is odd");
+		}
 		break;
 		
 		case 2:
@@ -43,7 +45,9 @@ int main()
 			printf("The given character is an vowel");
 		}
 		else
+		{
 		printf("The given character is a consonent");
+		}
 		break;
 		
 		case 4:
@@ -53,8 +57,10 @@ int main()
 			printf("The given input is a alphabet");
 		}
 		else
+		{
 			printf("The given input is not an alphabet");
-		break;
+		}
+		    break;
 		 
 		case 5:
 		if (n%5==0 && n%11==0)
@@ -62,8 +68,10 @@ int main()
 			printf("\nThe number %d is divisible by 5 and 11",n);
 		}
 		else
+		{
 			printf("\nThe number is not divisible");
-		break;
+		}
+			break;
 		
 		case 6:
 		exit (0);

@@ -2,7 +2,7 @@
 Student name: Rohit Maharjan
 Subject: Computer Fundamentals
 Roll no:
-Program : Write a program to print first and last digit of any digit number
+Program : Write a program to print first and last digit of any digit number using while loop
 Lab Sheet No:15
 Date: 11th jan,2017
 */

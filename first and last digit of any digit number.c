@@ -11,7 +11,7 @@ Date: 11th jan,2017
 int main()
 {
     int n,rem,i;
-    printf("Enter the four digit number\n");
+    printf("Enter the digit number\n");
     scanf("%d",&n);
     rem = n%10;
     printf("The first digit of the number is %d\n",rem);

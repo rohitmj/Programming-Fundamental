@@ -14,7 +14,7 @@ int main()
     printf("Enter the digit number\n");
     scanf("%d",&n);
     rem = n%10;
-    printf("The first digit of the number is %d\n",rem);
+    printf("The last digit of the number is %d\n",rem);
     i= n/10;
     while(i>=10)
     {

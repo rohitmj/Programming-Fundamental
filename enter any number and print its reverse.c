@@ -22,15 +22,6 @@ int main()
 
     }
     printf("The reverse of the number is %d\n",rev);
-    if(n==rev)
-        {
-             printf("Number is pallindrome");
-
-    }
-    else
-        {
-            printf("Number is not pallindrome");
-    }
     getch();
     return 0;
 

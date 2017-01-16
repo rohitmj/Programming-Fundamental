@@ -10,7 +10,7 @@ Date: 11th jan,2017
 #include<conio.h>
 int main()
 {
-    int i,count=1;
+    int i,count=0;
     printf("Enter the numbers\n");
     scanf("%d",&i);
     do
@@ -18,7 +18,7 @@ int main()
         i=i/10;
         count = count + 1;
     }
-    while(i>=10);
+    while(i>0);
     printf("The total number of digits are %d",count);
     getch();
     return 0;

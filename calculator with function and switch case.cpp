@@ -3,8 +3,8 @@ Student name: Rohit Maharjan
 Subject: Computer fundamentals
 Roll no:30
 Programe : WAP to make a calculator with functions and switch case
-Lab Sheet No:22
-Date: 30 jan,2017
+Lab Sheet No:30
+Date: 23 Jan,2016
 */
 #include<stdio.h>
 int add(int x,int y);
